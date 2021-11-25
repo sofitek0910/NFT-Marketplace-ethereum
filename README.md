@@ -15,15 +15,6 @@ This is a React, JS, Solidity application, for issue, mint, list and sell NFT (E
 - Buyers can preview, and purchase NFTs listed on the platform
 
 
-## Community coders, please commit
-
-Feel free to add extra functions or improvements, This helps me to familiarise myself with source control and open source project managing.
-
------
-
-
-
-
 
 ## Running instructions
 
@@ -32,8 +23,6 @@ Feel free to add extra functions or improvements, This helps me to familiarise m
 - make sure you have node.js installed on your machine
 - install project packages (npm install)
 - start a project (npm run start)
-
-
 
 
 
